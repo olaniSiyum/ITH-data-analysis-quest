@@ -10,10 +10,10 @@ This repository contains the deliverables for the Data Analysis Track, Stage 1: 
    - Ensure proper data types.
 
 2. **Visualization**:
-   - Create insightful plots using Python.
+   - Create insightful plots using Python. you can find on EDA.ipynb file
 
 ## Repository Structure:
 
 - `data/`: Contains raw and cleaned datasets.
 - `notebooks/`: Jupyter notebooks for data cleaning.
-- `visualizations/`: Final visualization deliverables.
+- `dashboard/`: streamlit dashboard.
